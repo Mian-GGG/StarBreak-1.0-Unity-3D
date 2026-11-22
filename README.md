@@ -4,7 +4,7 @@ A 3D space combat game developed using **Unity and C#**, featuring spaceship com
 
 ## Gameplay Preview
 
-**Gameplay Video:** [Watch the gameplay on YouTube]([https://youtu.be/rix2rA14vE0]))
+**Gameplay Video:** [Watch the gameplay on YouTube]([https://youtu.be/rix2rA14vE0])
 
 ## Overview
 
