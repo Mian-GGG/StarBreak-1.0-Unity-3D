@@ -143,7 +143,7 @@ The repository is intended as a source-code showcase rather than a complete, ind
 
 A Windows build of the game is available in the repository's GitHub Releases section.
 
-**[Download the Windows Build](GITHUB_RELEASE_LINK)**
+**[Download the Windows Build](https://github.com/Mian-GGG/StarBreak-1.0-Unity-3D/releases/tag/v1.0)**
 
 Extract the downloaded ZIP file and run the game executable.
 
